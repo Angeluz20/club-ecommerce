@@ -1,8 +1,7 @@
+import Header from "./components/header/header.component";
+
 const App = () => {
-  return <>
-    <h1>testre df</h1>
-    <h2>tes23</h2>
-    </>
+  return <Header/>  
 } 
 
 export default App;
